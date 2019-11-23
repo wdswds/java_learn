@@ -9,7 +9,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 /**
  * @author WDS
  * @date 2019/11/22 18:41
- * Master-Worker模式
+ * Master-Worker模式的 Master部分
  */
 public class Master {
 

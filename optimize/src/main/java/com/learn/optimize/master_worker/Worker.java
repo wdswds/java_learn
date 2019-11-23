@@ -6,6 +6,7 @@ import java.util.Queue;
 /**
  * @author WDS
  * @date 2019/11/22 20:34
+ * Master-Worker模式的 Worker部分
  */
 public class Worker implements Runnable {
     //任务队列，用于取得子任务
